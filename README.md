@@ -1,3 +1,3 @@
 # Calculator
 simple calculator web page using html,css,javascript
-<!-- ![image]("C:\Users\Logesh Kumar S\Downloads\Calculator_page.jpg") -->
+![image]("https://github.com/logeshkumarsb/Calculator/issues/1")
